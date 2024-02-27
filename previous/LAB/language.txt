@@ -1,0 +1,5 @@
+Simulation: C, C++ or any language. - vscode/codeblocks
+Image processing: python - vscode/ pycharm
+Object oriented: java - vscode/netbeans
+Parallel processing: Linux - vscode/codeblocks
+peripheral and interfacing - emu8086
